@@ -12,11 +12,11 @@ iesc_jcarlos@hotmail.com <br/>
 
 
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="mailto:iesc_jcarlos@hotmail.com">iesc_jcarlos@hotmail.com</a>
+<a href="mailto:iesc_jcarlos@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a href="https://www.linkedin.com/in/jcarlos-carranza/">Linkedin</a>
+<a href="https://www.linkedin.com/in/jcarlos-carranza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </body>
   
