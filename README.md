@@ -10,7 +10,7 @@ iesc_jcarlos@hotmail.com <br/>
 
 <a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_48163636_icono-de-dise%25C3%25B1o-plano-web-azul-de-correo-electr%25C3%25B3nico-sobre-fondo-blanco.html&psig=AOvVaw1xbMgUV8mwx9_lW3rYf4-o&ust=1668286254517000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPiemt6Ap_sCFQAAAAAdAAAAABAE">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 
 
