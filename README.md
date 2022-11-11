@@ -7,7 +7,7 @@ Programador web de aplicaciones de escritorio & desarrollador web
 iesc_jcarlos@hotmail.com <br/>
 74-43-52-28-14
 
-<img src="https://www.google.com/search?q=icono+de+correo&sxsrf=ALiCzsZkUnTTotZN3BoKhm5-Uf16G14htA%3A1668199833377&source=hp&ei=mbVuY677EMLnkPIPopC6-AQ&iflsig=AJiK0e8AAAAAY27DqXRQGLWMNWyK2T0GCBZV3LW-X_lK&ved=0ahUKEwjuq-jTgKf7AhXCM0QIHSKIDk8Q4dUDCAg&uact=5&oq=icono+de+correo&gs_lcp=Cgdnd3Mtd2l6EAMyCwgAEIAEELEDEIMBMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEOgcIIxDqAhAnOhEILhCABBCxAxCDARDHARDRAzoOCC4QgAQQsQMQxwEQ0QM6BAgjECc6CAgAELEDEIMBOggILhCABBCxAzoICAAQgAQQsQM6CwguEIAEELEDENQCOgYIABAWEB46BQghEKABOg0IABCABBCxAxCDARANOgcIABCABBANULcMWMMyYJE2aAVwAHgAgAG0AYgB3g-SAQQxMC45mAEAoAEBsAEK&sclient=gws-wiz#imgrc=V6BlAmcdn4XLOM">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.123rf.com%2Fphoto_48163636_icono-de-dise%25C3%25B1o-plano-web-azul-de-correo-electr%25C3%25B3nico-sobre-fondo-blanco.html&psig=AOvVaw1xbMgUV8mwx9_lW3rYf4-o&ust=1668286254517000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPiemt6Ap_sCFQAAAAAdAAAAABAE">
 
 
 
