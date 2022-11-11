@@ -11,8 +11,7 @@ iesc_jcarlos@hotmail.com <br/>
 
 
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="mailto:iesc_jcarlos@hotmail.com">iesc_jcarlos@hotmail.com</a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a href="mailto:iesc_jcarlos@hotmail.com">iesc_jcarlos@hotmail.com</a>
 
 
 
