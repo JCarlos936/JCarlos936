@@ -1,7 +1,7 @@
 Hola, mi nombre es Carlos 🖐
 
 
-CARLOS CARRANZA
+CARLOS CARRANZA <br/>
 Programador web de aplicaciones de escritorio & desarrollador web
 
 iesc_jcarlos@hotmail.com <br/>
