@@ -1,14 +1,11 @@
 <html>
 <pre>
 <body>
-Hola, mi nombre es Carlos 🖐
+Hola, mi nombre es Carlos 🖐😀😁
 
 
 CARLOS CARRANZA <br/>
-Programador web de aplicaciones de escritorio & desarrollador web
-
-iesc_jcarlos@hotmail.com <br/>
-74-43-52-28-14
+Programador & Desarrollador web en aplicaciones de escritorio.
 
 
 
