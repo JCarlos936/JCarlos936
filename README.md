@@ -1,8 +1,10 @@
+<html>
+
 Hola, mi nombre es Carlos 🖐
 
 
 CARLOS CARRANZA <br/>
-Programador web de aplicaciones de escritorio & desarrollador web
+<h1>Programador web de aplicaciones de escritorio & desarrollador web</h1>
 
 iesc_jcarlos@hotmail.com <br/>
 74-43-52-28-14
@@ -18,6 +20,8 @@ iesc_jcarlos@hotmail.com <br/>
 <a href="https://www.linkedin.com/in/jcarlos-carranza/">Linkedin</a>
 
 
+  
+  </html>
 
 
 
