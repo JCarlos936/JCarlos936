@@ -18,7 +18,7 @@ CARLOS CARRANZA <br/>
 
 <a href="https://www.linkedin.com/in/jcarlos-carranza/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<video autoplay="https://www.youtube.com/watch?v=ZtfXKrdxi0k">
+<video autoplay="https://www.youtube.com/watch?v=ZtfXKrdxi0k" width="300px" height="300px">
 
 
 </body> 
