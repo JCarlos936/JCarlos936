@@ -1,12 +1,23 @@
 <html>
 <pre>
 <body>
+<style>
+
+.texto{
+color:red;
+}
+
+
+
+</style>
+
+
 Hola, mi nombre es Carlos 🖐😀😁
 
 
 CARLOS CARRANZA <br/>
-Programador & Desarrollador web en aplicaciones de escritorio.
-
+<p class="texto">Programador & Desarrollador web en aplicaciones de escritorio.</p>
+ 
 
 
 <a href="mailto:iesc_jcarlos@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
