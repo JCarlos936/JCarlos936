@@ -1,22 +1,14 @@
 <html>
 <pre>
 <body>
-<style>
 
-.texto{
-color:red;
-}
-
-
-
-</style>
 
 
 Hola, mi nombre es Carlos 🖐😀😁
 
 
 CARLOS CARRANZA <br/>
-<p class="texto">Programador & Desarrollador web en aplicaciones de escritorio.</p>
+<p color="red">Programador & Desarrollador web en aplicaciones de escritorio.</p>
  
 
 
