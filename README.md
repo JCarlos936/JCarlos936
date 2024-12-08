@@ -12,7 +12,8 @@ Programador & Desarrollador web de aplicaciones.
  
 <a href="mailto:iesc_jcarlos@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jcarlos-carranza/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/jcarlos-carranza/" target="blank"><img src="C:\Users\LENOVO\OneDrive\Desktop\png-transparent-5th-special-forces-group-7th-special-forces-group-military-special-force-emblem-special-forces-20th-special-forces-group"></a>
+<a href="https://www.linkedin.com/in/jcarlos-carranza/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 <video src="https://www.youtube.com/watch?v=ZtfXKrdxi0k" width="300" height="300">Ir video</video>
 
 
