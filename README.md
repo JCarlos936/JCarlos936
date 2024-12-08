@@ -5,8 +5,6 @@
 
 
 <p>Hola, mi nombre es Carlos.🖐😀😁</p>
-
-
 <h1><b>CARLOS CARRANZA</b></h1>
 Programador & Desarrollador web de aplicaciones.
 <br>
